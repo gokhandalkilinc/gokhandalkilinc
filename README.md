@@ -1,5 +1,4 @@
-<h1 align="left">Merhaba 👋,</h1>
-<h1 align="left">Ben Gökhan.</h1>
+<h1 align="left">Merhaba 👋, ben Gökhan.</h1>
 <h3 align="left">A passionate frontend designer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhandalkilinc&label=Profile%20views&color=0e75b6&style=flat" alt="gokhandalkilinc" /> </p>
